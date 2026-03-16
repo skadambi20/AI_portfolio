@@ -17,7 +17,7 @@ lang: en
 icon: ⚛️
 
 url: https://skadambi20.github.io
-baseurl: shreyakadambi
+baseurl: /shreyakadambi
 last_updated: false
 impressum_path:
 
@@ -131,21 +131,21 @@ external_sources:
 # Collections — only what's needed
 # -----------------------------------------------------------------------------
 
-collections:
-  news:
-    defaults:
-      layout: post
-    output: false        # news disabled
-    permalink: /news/:path/
-  projects:
-    output: false        # projects disabled
-    permalink: /projects/:path/
+# collections:
+#   news:
+#     defaults:
+#       layout: post
+#     output: false        # news disabled
+#     permalink: /news/:path/
+#   projects:
+#     output: false        # projects disabled
+#     permalink: /projects/:path/
 
-announcements:
-  enabled: false         # no news/announcements section
+# announcements:
+#   enabled: false         # no news/announcements section
 
-latest_posts:
-  enabled: false         # no blog posts section
+# latest_posts:
+#   enabled: false         # no blog posts section
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
