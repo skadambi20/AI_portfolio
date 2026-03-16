@@ -1,35 +1,28 @@
+About · MD
+Copy
+
 ---
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Qualcomm AI Research. 
-
+subtitle: Research Engineer · <a href='https://www.qualcomm.com/invention/artificial-intelligence/ai-research'>Qualcomm AI Research</a>
+ 
 profile:
   align: right
   image: image.png
-  image_circular: false # crops the image to make it circular
-  # more_info: >
-  <p>Qualcomm AI Research</p>
-
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+  image_circular: false
+ 
+news: false
+latest_posts: false
+selected_papers: false
+social: true
 ---
-
-I am an experienced Machine Learning (ML) Researcher at Qualcomm AI research I have worked extensively on
-problems such as generative models in vision, on-device efficiency, inverse problems (e.g Object manipulation, Inpainting,
-RF-sensing, SLAM), Unsupervised models for assisted diagnostic radiology. My current focus lies at the intersection of
-generative AI (predominantly Diffusion) and efficient on-device models. I am involved in demos, papers and Invention
-disclosures in link patent, papers, journal. 
-
+ 
+I am an experienced Machine Learning Researcher at Qualcomm AI Research. I have worked extensively on problems such as generative models in vision, on-device efficiency, inverse problems (e.g. object manipulation, inpainting, RF-sensing, SLAM), and unsupervised models for assisted diagnostic radiology. My current focus lies at the intersection of generative AI (predominantly diffusion models) and efficient on-device models.
+ 
 ## Publications
-
+ 
 <div class="publications">
 {% bibliography %}
 </div>
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-<!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. --> -->
+ 
