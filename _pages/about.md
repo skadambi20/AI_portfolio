@@ -1,6 +1,3 @@
-About · MD
-Copy
-
 ---
 layout: about
 title: about
